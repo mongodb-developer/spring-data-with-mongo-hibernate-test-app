@@ -23,7 +23,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter'
     implementation 'org.springframework.boot:spring-boot-starter-web'
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
-    implementation 'org.mongodb:mongodb-hibernate:1.0.0-SNAPSHOT'
+    implementation 'org.mongodb:mongodb-hibernate:1.0.0-alpha0'
     implementation('org.springframework.boot:spring-boot-starter-data-jpa:3.5.0')
 }
 
